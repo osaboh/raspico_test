@@ -1,6 +1,6 @@
 # Raspberry Pi Pico build test
 
-LICENSE: MTI
+LICENSE: MIT
 
 Start OpenOCD
 
